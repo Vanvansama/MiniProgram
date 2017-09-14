@@ -2,17 +2,17 @@
 ThinkPHP5+微信小程序商城
 
 # 项目预览
-![gif](https://raw.githubusercontent.com/Vanvansama/TP5_MiniPrograms/master/PreviewImage/preview.gif)
+![gif](https://raw.githubusercontent.com/Vanvansama/MiniPrograms/master/PreviewImage/preview.gif)
 #### 商城首页
-![img](https://raw.githubusercontent.com/Vanvansama/TP5_MiniPrograms/master/PreviewImage/1.PNG)
-![img](https://raw.githubusercontent.com/Vanvansama/TP5_MiniPrograms/master/PreviewImage/2.PNG)
-![img](https://raw.githubusercontent.com/Vanvansama/TP5_MiniPrograms/master/PreviewImage/3.PNG)
+![img](https://raw.githubusercontent.com/Vanvansama/MiniPrograms/master/PreviewImage/1.PNG)
+![img](https://raw.githubusercontent.com/Vanvansama/MiniPrograms/master/PreviewImage/2.PNG)
+![img](https://raw.githubusercontent.com/Vanvansama/MiniPrograms/master/PreviewImage/3.PNG)
 #### 商城分类页
-![img](https://raw.githubusercontent.com/Vanvansama/TP5_MiniPrograms/master/PreviewImage/4.PNG)
+![img](https://raw.githubusercontent.com/Vanvansama/MiniPrograms/master/PreviewImage/4.PNG)
 #### 商品详情页
-![img](https://raw.githubusercontent.com/Vanvansama/TP5_MiniPrograms/master/PreviewImage/5.PNG)
+![img](https://raw.githubusercontent.com/Vanvansama/MiniPrograms/master/PreviewImage/5.PNG)
 #### 商品购物车页
-![img](https://raw.githubusercontent.com/Vanvansama/TP5_MiniPrograms/master/PreviewImage/6.PNG)
+![img](https://raw.githubusercontent.com/Vanvansama/MiniPrograms/master/PreviewImage/6.PNG)
 
 # 特性
 1.  api采用RESTFul API风格
